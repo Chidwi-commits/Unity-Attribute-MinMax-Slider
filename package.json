@@ -25,5 +25,12 @@
     "type": "git",
     "url": "https://github.com/Chidwi-commits/Unity-Attribute-MinMax-Slider.git"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "samples": [
+  {
+    "displayName": "Samples",
+    "description": "Samples MinMaxSlider Attribute using and script and attached to GameObject",
+    "path": "Samples/"
+  }
+]
 }

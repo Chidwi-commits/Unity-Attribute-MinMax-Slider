@@ -1,0 +1,27 @@
+{
+  "name": "com.chidwi.minmaxslideratt",
+  "version": "1.0.0",
+  "displayName": "Min Max Slider Attribute",
+  "description": "Min Max Slider Attribute for Unity Inspector",
+  "unity": "2022.3",
+  "keywords": [
+    "Min",
+    "Max",
+    "Slider",
+    "Range",
+	"Attribute"
+  ],
+  "category": "UI",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Chidwi-commits/Unity-Attribute-MinMax-Slider.git"
+  },
+  "dependencies": {},
+  "samples": [
+  {
+    "displayName": "Samples",
+    "description": "Samples MinMaxSlider Attribute using and script and attached to GameObject",
+    "path": "Samples/"
+  }
+]
+}

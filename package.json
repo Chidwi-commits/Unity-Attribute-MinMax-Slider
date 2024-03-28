@@ -4,7 +4,7 @@
   "displayName": "Min Max Slider Attribute",
   "description": "Min Max Slider Attribute for Unity Inspector",
   "unity": "2022.3",
-  "licenses" : [{
+  "license" : [{
     "type" : "MIT",
     "url" : "https://github.com/Chidwi-commits/Unity-Attribute-MinMax-Slider/blob/main/LICENSE"
   }],

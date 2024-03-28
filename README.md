@@ -7,6 +7,7 @@ This Unity utility provides a custom attribute MinMaxSliderAttribute and its cor
  - Custom Slider for Vector2: Utilize a slider in the Unity Inspector to define a range between minimum and maximum values. 
  - Easy to Use: Simply add the **[MinMaxSlider(min, max)]** attribute to a Vector2 field in your script to create a min/max slider in the Inspector. 
  - Flexible Range Setting: Define the minimum and maximum values of the slider directly through the attribute.
+   ![](https://github.com/Chidwi-commits/Unity-Attribute-MinMax-Slider/blob/main/View_Example_215048.png)
 ## Requirements
  - Unity 2022 or newer.
  - This utility is intended for use with C# scripts in Unity.

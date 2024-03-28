@@ -7,15 +7,13 @@ public class ExampleScript : MonoBehaviour
     [MinMaxSliderAttribute(0f, 2f)]
     private Vector2 value = new Vector2(1.1f, 1.3f);
 
-    // Start is called before the first frame update
     void Start()
     {
-        
+        Debug.Log($"Min:{value.x} ~ Max:{value.y}");
     }
 
-    // Update is called once per frame
     void Update()
     {
-        
+        Debug.Log($"Min:{value.x} ~ Max:{value.y}");
     }
 }

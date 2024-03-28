@@ -28,8 +28,8 @@
   "dependencies": {},
   "samples": [
   {
-    "displayName": "Samples",
-    "description": "Samples MinMaxSlider Attribute using and script and attached to GameObject",
+    "displayName": "Sample",
+    "description": "Sample MinMaxSlider Attribute using and script and attached to GameObject",
     "path": "Sample~/MinMaxSlider Attribute Example"
   }
 ]

@@ -4,6 +4,11 @@
   "displayName": "Min Max Slider Attribute",
   "description": "Min Max Slider Attribute for Unity Inspector",
   "unity": "2022.3",
+  "author": {
+	"name": "Heorhii Norenko",
+	"email": "aoe41es@gmail.com",
+	"url": "https://github.com/Chidwi-commits"
+  },
   "keywords": [
     "Min",
     "Max",
@@ -11,7 +16,7 @@
     "Range",
 	"Attribute"
   ],
-  "category": "UI",
+  "category": "Editor Enhancement",
   "repository": {
     "type": "git",
     "url": "https://github.com/Chidwi-commits/Unity-Attribute-MinMax-Slider.git"

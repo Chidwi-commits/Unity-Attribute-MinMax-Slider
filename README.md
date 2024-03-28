@@ -19,7 +19,7 @@ To use the MinMaxSliderAttribute and MinMaxSliderDrawer in your project, follow 
 ### Usage
 After installation, you can use the attribute in your scripts like so:
 
-```
+```C#
 using UnityEngine;
 
 public class ExampleUsage : MonoBehaviour

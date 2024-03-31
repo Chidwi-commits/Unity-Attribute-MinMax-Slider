@@ -1,3 +1,4 @@
+<a href="https://openupm.com/packages/com.chidwi.minmaxslideratt/"><img src="https://img.shields.io/npm/v/com.chidwi.minmaxslideratt?label=openupm&amp;registry_uri=https://package.openupm.com" /></a>
 # Unity-Attribute-MinMax-Slider
 
 The main goal was to create the simplest and most user-friendly script that would allow adding the Range Slider attribute to common Unity scripts for easy configuration in the editor. 

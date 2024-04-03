@@ -15,6 +15,7 @@ namespace Chidwi.MinMaxSliderAttribute
         }
     }
 
+#if UNITY_EDITOR
     [CustomPropertyDrawer(typeof(MinMaxSliderAttribute))]
     public class MinMaxSliderDrawer : PropertyDrawer
     {
@@ -80,4 +81,5 @@ namespace Chidwi.MinMaxSliderAttribute
             }
         }
     }
+#endif
 }
